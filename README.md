@@ -23,5 +23,5 @@
 
 ## 🔛Link live
 Check the live website here: <br/>
-![Hostinger server] - https://lauradanstudio.com/ <br/>
-![GhPages] - https://isabelamihai.github.io/Foto-website/
+[Hostinger server](https://lauradanstudio.com/) <br/>
+[GhPages](https://isabelamihai.github.io/Foto-website/)
